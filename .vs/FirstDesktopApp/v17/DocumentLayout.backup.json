@@ -1,0 +1,553 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\semester 2\\c#\\GameFramework-OOP-Course-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C763611-5BEF-AEEF-1986-821412C2B20D}|FirstDesktopApp.csproj|d:\\semester 2\\c#\\gameframework-oop-course-master\\entities\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C763611-5BEF-AEEF-1986-821412C2B20D}|FirstDesktopApp.csproj|solutionrelative:entities\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C763611-5BEF-AEEF-1986-821412C2B20D}|FirstDesktopApp.csproj|d:\\semester 2\\c#\\gameframework-oop-course-master\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{8C763611-5BEF-AEEF-1986-821412C2B20D}|FirstDesktopApp.csproj|solutionrelative:properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C763611-5BEF-AEEF-1986-821412C2B20D}|FirstDesktopApp.csproj|d:\\semester 2\\c#\\gameframework-oop-course-master\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C763611-5BEF-AEEF-1986-821412C2B20D}|FirstDesktopApp.csproj|solutionrelative:gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C763611-5BEF-AEEF-1986-821412C2B20D}|FirstDesktopApp.csproj|d:\\semester 2\\c#\\gameframework-oop-course-master\\core\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C763611-5BEF-AEEF-1986-821412C2B20D}|FirstDesktopApp.csproj|solutionrelative:core\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C763611-5BEF-AEEF-1986-821412C2B20D}|FirstDesktopApp.csproj|d:\\semester 2\\c#\\gameframework-oop-course-master\\core\\gametime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C763611-5BEF-AEEF-1986-821412C2B20D}|FirstDesktopApp.csproj|solutionrelative:core\\gametime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C763611-5BEF-AEEF-1986-821412C2B20D}|FirstDesktopApp.csproj|d:\\semester 2\\c#\\gameframework-oop-course-master\\gameoverform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C763611-5BEF-AEEF-1986-821412C2B20D}|FirstDesktopApp.csproj|solutionrelative:gameoverform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C763611-5BEF-AEEF-1986-821412C2B20D}|FirstDesktopApp.csproj|d:\\semester 2\\c#\\gameframework-oop-course-master\\core\\charactertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C763611-5BEF-AEEF-1986-821412C2B20D}|FirstDesktopApp.csproj|solutionrelative:core\\charactertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C763611-5BEF-AEEF-1986-821412C2B20D}|FirstDesktopApp.csproj|d:\\semester 2\\c#\\gameframework-oop-course-master\\entities\\bikeenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C763611-5BEF-AEEF-1986-821412C2B20D}|FirstDesktopApp.csproj|solutionrelative:entities\\bikeenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C763611-5BEF-AEEF-1986-821412C2B20D}|FirstDesktopApp.csproj|d:\\semester 2\\c#\\gameframework-oop-course-master\\extensions\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C763611-5BEF-AEEF-1986-821412C2B20D}|FirstDesktopApp.csproj|solutionrelative:extensions\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C763611-5BEF-AEEF-1986-821412C2B20D}|FirstDesktopApp.csproj|d:\\semester 2\\c#\\gameframework-oop-course-master\\extensions\\powerup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C763611-5BEF-AEEF-1986-821412C2B20D}|FirstDesktopApp.csproj|solutionrelative:extensions\\powerup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C763611-5BEF-AEEF-1986-821412C2B20D}|FirstDesktopApp.csproj|d:\\semester 2\\c#\\gameframework-oop-course-master\\systems\\collisionsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C763611-5BEF-AEEF-1986-821412C2B20D}|FirstDesktopApp.csproj|solutionrelative:systems\\collisionsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C763611-5BEF-AEEF-1986-821412C2B20D}|FirstDesktopApp.csproj|d:\\semester 2\\c#\\gameframework-oop-course-master\\movements\\keyboardmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C763611-5BEF-AEEF-1986-821412C2B20D}|FirstDesktopApp.csproj|solutionrelative:movements\\keyboardmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C763611-5BEF-AEEF-1986-821412C2B20D}|FirstDesktopApp.csproj|d:\\semester 2\\c#\\gameframework-oop-course-master\\entities\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C763611-5BEF-AEEF-1986-821412C2B20D}|FirstDesktopApp.csproj|solutionrelative:entities\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C763611-5BEF-AEEF-1986-821412C2B20D}|FirstDesktopApp.csproj|D:\\semester 2\\c#\\GameFramework-OOP-Course-master\\gameoverform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C763611-5BEF-AEEF-1986-821412C2B20D}|FirstDesktopApp.csproj|solutionrelative:gameoverform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C763611-5BEF-AEEF-1986-821412C2B20D}|FirstDesktopApp.csproj|D:\\semester 2\\c#\\GameFramework-OOP-Course-master\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C763611-5BEF-AEEF-1986-821412C2B20D}|FirstDesktopApp.csproj|solutionrelative:gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C763611-5BEF-AEEF-1986-821412C2B20D}|FirstDesktopApp.csproj|d:\\semester 2\\c#\\gameframework-oop-course-master\\movements\\patrolmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C763611-5BEF-AEEF-1986-821412C2B20D}|FirstDesktopApp.csproj|solutionrelative:movements\\patrolmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C763611-5BEF-AEEF-1986-821412C2B20D}|FirstDesktopApp.csproj|d:\\semester 2\\c#\\gameframework-oop-course-master\\entities\\bigenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C763611-5BEF-AEEF-1986-821412C2B20D}|FirstDesktopApp.csproj|solutionrelative:entities\\bigenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C763611-5BEF-AEEF-1986-821412C2B20D}|FirstDesktopApp.csproj|d:\\semester 2\\c#\\gameframework-oop-course-master\\core\\trackmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C763611-5BEF-AEEF-1986-821412C2B20D}|FirstDesktopApp.csproj|solutionrelative:core\\trackmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C763611-5BEF-AEEF-1986-821412C2B20D}|FirstDesktopApp.csproj|d:\\semester 2\\c#\\gameframework-oop-course-master\\entities\\zigzagenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C763611-5BEF-AEEF-1986-821412C2B20D}|FirstDesktopApp.csproj|solutionrelative:entities\\zigzagenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C763611-5BEF-AEEF-1986-821412C2B20D}|FirstDesktopApp.csproj|d:\\semester 2\\c#\\gameframework-oop-course-master\\core\\track.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C763611-5BEF-AEEF-1986-821412C2B20D}|FirstDesktopApp.csproj|solutionrelative:core\\track.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C763611-5BEF-AEEF-1986-821412C2B20D}|FirstDesktopApp.csproj|d:\\semester 2\\c#\\gameframework-oop-course-master\\entities\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C763611-5BEF-AEEF-1986-821412C2B20D}|FirstDesktopApp.csproj|solutionrelative:entities\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C763611-5BEF-AEEF-1986-821412C2B20D}|FirstDesktopApp.csproj|d:\\semester 2\\c#\\gameframework-oop-course-master\\entities\\birdenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C763611-5BEF-AEEF-1986-821412C2B20D}|FirstDesktopApp.csproj|solutionrelative:entities\\birdenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C763611-5BEF-AEEF-1986-821412C2B20D}|FirstDesktopApp.csproj|d:\\semester 2\\c#\\gameframework-oop-course-master\\core\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C763611-5BEF-AEEF-1986-821412C2B20D}|FirstDesktopApp.csproj|solutionrelative:core\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C763611-5BEF-AEEF-1986-821412C2B20D}|FirstDesktopApp.csproj|d:\\semester 2\\c#\\gameframework-oop-course-master\\systems\\physicssystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C763611-5BEF-AEEF-1986-821412C2B20D}|FirstDesktopApp.csproj|solutionrelative:systems\\physicssystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C763611-5BEF-AEEF-1986-821412C2B20D}|FirstDesktopApp.csproj|d:\\semester 2\\c#\\gameframework-oop-course-master\\extensions\\particlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C763611-5BEF-AEEF-1986-821412C2B20D}|FirstDesktopApp.csproj|solutionrelative:extensions\\particlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C763611-5BEF-AEEF-1986-821412C2B20D}|FirstDesktopApp.csproj|d:\\semester 2\\c#\\gameframework-oop-course-master\\extensions\\particle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C763611-5BEF-AEEF-1986-821412C2B20D}|FirstDesktopApp.csproj|solutionrelative:extensions\\particle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C763611-5BEF-AEEF-1986-821412C2B20D}|FirstDesktopApp.csproj|d:\\semester 2\\c#\\gameframework-oop-course-master\\interfaces\\iupdatable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C763611-5BEF-AEEF-1986-821412C2B20D}|FirstDesktopApp.csproj|solutionrelative:interfaces\\iupdatable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C763611-5BEF-AEEF-1986-821412C2B20D}|FirstDesktopApp.csproj|d:\\semester 2\\c#\\gameframework-oop-course-master\\interfaces\\iphysicsobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C763611-5BEF-AEEF-1986-821412C2B20D}|FirstDesktopApp.csproj|solutionrelative:interfaces\\iphysicsobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C763611-5BEF-AEEF-1986-821412C2B20D}|FirstDesktopApp.csproj|d:\\semester 2\\c#\\gameframework-oop-course-master\\interfaces\\imovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C763611-5BEF-AEEF-1986-821412C2B20D}|FirstDesktopApp.csproj|solutionrelative:interfaces\\imovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C763611-5BEF-AEEF-1986-821412C2B20D}|FirstDesktopApp.csproj|d:\\semester 2\\c#\\gameframework-oop-course-master\\interfaces\\imovable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C763611-5BEF-AEEF-1986-821412C2B20D}|FirstDesktopApp.csproj|solutionrelative:interfaces\\imovable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C763611-5BEF-AEEF-1986-821412C2B20D}|FirstDesktopApp.csproj|d:\\semester 2\\c#\\gameframework-oop-course-master\\interfaces\\idrawable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C763611-5BEF-AEEF-1986-821412C2B20D}|FirstDesktopApp.csproj|solutionrelative:interfaces\\idrawable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C763611-5BEF-AEEF-1986-821412C2B20D}|FirstDesktopApp.csproj|d:\\semester 2\\c#\\gameframework-oop-course-master\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8C763611-5BEF-AEEF-1986-821412C2B20D}|FirstDesktopApp.csproj|solutionrelative:properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C763611-5BEF-AEEF-1986-821412C2B20D}|FirstDesktopApp.csproj|d:\\semester 2\\c#\\gameframework-oop-course-master\\gameform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C763611-5BEF-AEEF-1986-821412C2B20D}|FirstDesktopApp.csproj|solutionrelative:gameform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 29,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameForm.cs",
+              "DocumentMoniker": "D:\\semester 2\\c#\\GameFramework-OOP-Course-master\\GameForm.cs",
+              "RelativeDocumentMoniker": "GameForm.cs",
+              "ToolTip": "D:\\semester 2\\c#\\GameFramework-OOP-Course-master\\GameForm.cs",
+              "RelativeToolTip": "GameForm.cs",
+              "ViewState": "AgIAACwBAAAAAAAAAAAAAEYBAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T12:13:29.353Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CharacterType.cs",
+              "DocumentMoniker": "D:\\semester 2\\c#\\GameFramework-OOP-Course-master\\Core\\CharacterType.cs",
+              "RelativeDocumentMoniker": "Core\\CharacterType.cs",
+              "ToolTip": "D:\\semester 2\\c#\\GameFramework-OOP-Course-master\\Core\\CharacterType.cs",
+              "RelativeToolTip": "Core\\CharacterType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T11:53:04.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BikeEnemy.cs",
+              "DocumentMoniker": "D:\\semester 2\\c#\\GameFramework-OOP-Course-master\\Entities\\BikeEnemy.cs",
+              "RelativeDocumentMoniker": "Entities\\BikeEnemy.cs",
+              "ToolTip": "D:\\semester 2\\c#\\GameFramework-OOP-Course-master\\Entities\\BikeEnemy.cs",
+              "RelativeToolTip": "Entities\\BikeEnemy.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAywCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T11:15:42.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TrackManager.cs",
+              "DocumentMoniker": "D:\\semester 2\\c#\\GameFramework-OOP-Course-master\\Core\\TrackManager.cs",
+              "RelativeDocumentMoniker": "Core\\TrackManager.cs",
+              "ToolTip": "D:\\semester 2\\c#\\GameFramework-OOP-Course-master\\Core\\TrackManager.cs",
+              "RelativeToolTip": "Core\\TrackManager.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T11:35:05.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Track.cs",
+              "DocumentMoniker": "D:\\semester 2\\c#\\GameFramework-OOP-Course-master\\Core\\Track.cs",
+              "RelativeDocumentMoniker": "Core\\Track.cs",
+              "ToolTip": "D:\\semester 2\\c#\\GameFramework-OOP-Course-master\\Core\\Track.cs",
+              "RelativeToolTip": "Core\\Track.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T11:33:07.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ZigZagEnemy.cs",
+              "DocumentMoniker": "D:\\semester 2\\c#\\GameFramework-OOP-Course-master\\Entities\\ZigZagEnemy.cs",
+              "RelativeDocumentMoniker": "Entities\\ZigZagEnemy.cs",
+              "ToolTip": "D:\\semester 2\\c#\\GameFramework-OOP-Course-master\\Entities\\ZigZagEnemy.cs",
+              "RelativeToolTip": "Entities\\ZigZagEnemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T17:04:07.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BigEnemy.cs",
+              "DocumentMoniker": "D:\\semester 2\\c#\\GameFramework-OOP-Course-master\\Entities\\BigEnemy.cs",
+              "RelativeDocumentMoniker": "Entities\\BigEnemy.cs",
+              "ToolTip": "D:\\semester 2\\c#\\GameFramework-OOP-Course-master\\Entities\\BigEnemy.cs",
+              "RelativeToolTip": "Entities\\BigEnemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T17:03:06.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PatrolMovement.cs",
+              "DocumentMoniker": "D:\\semester 2\\c#\\GameFramework-OOP-Course-master\\Movements\\PatrolMovement.cs",
+              "RelativeDocumentMoniker": "Movements\\PatrolMovement.cs",
+              "ToolTip": "D:\\semester 2\\c#\\GameFramework-OOP-Course-master\\Movements\\PatrolMovement.cs",
+              "RelativeToolTip": "Movements\\PatrolMovement.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvygAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T07:15:53.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "KeyboardMovement.cs",
+              "DocumentMoniker": "D:\\semester 2\\c#\\GameFramework-OOP-Course-master\\Movements\\KeyboardMovement.cs",
+              "RelativeDocumentMoniker": "Movements\\KeyboardMovement.cs",
+              "ToolTip": "D:\\semester 2\\c#\\GameFramework-OOP-Course-master\\Movements\\KeyboardMovement.cs",
+              "RelativeToolTip": "Movements\\KeyboardMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T07:15:21.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IMovement.cs",
+              "DocumentMoniker": "D:\\semester 2\\c#\\GameFramework-OOP-Course-master\\Interfaces\\IMovement.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IMovement.cs",
+              "ToolTip": "D:\\semester 2\\c#\\GameFramework-OOP-Course-master\\Interfaces\\IMovement.cs",
+              "RelativeToolTip": "Interfaces\\IMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T07:07:57.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ParticleManager.cs",
+              "DocumentMoniker": "D:\\semester 2\\c#\\GameFramework-OOP-Course-master\\Extensions\\ParticleManager.cs",
+              "RelativeDocumentMoniker": "Extensions\\ParticleManager.cs",
+              "ToolTip": "D:\\semester 2\\c#\\GameFramework-OOP-Course-master\\Extensions\\ParticleManager.cs",
+              "RelativeToolTip": "Extensions\\ParticleManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T17:33:46.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Particle.cs",
+              "DocumentMoniker": "D:\\semester 2\\c#\\GameFramework-OOP-Course-master\\Extensions\\Particle.cs",
+              "RelativeDocumentMoniker": "Extensions\\Particle.cs",
+              "ToolTip": "D:\\semester 2\\c#\\GameFramework-OOP-Course-master\\Extensions\\Particle.cs",
+              "RelativeToolTip": "Extensions\\Particle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T17:31:55.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameState.cs",
+              "DocumentMoniker": "D:\\semester 2\\c#\\GameFramework-OOP-Course-master\\Core\\GameState.cs",
+              "RelativeDocumentMoniker": "Core\\GameState.cs",
+              "ToolTip": "D:\\semester 2\\c#\\GameFramework-OOP-Course-master\\Core\\GameState.cs",
+              "RelativeToolTip": "Core\\GameState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T08:48:29.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BirdEnemy.cs",
+              "DocumentMoniker": "D:\\semester 2\\c#\\GameFramework-OOP-Course-master\\Entities\\BirdEnemy.cs",
+              "RelativeDocumentMoniker": "Entities\\BirdEnemy.cs",
+              "ToolTip": "D:\\semester 2\\c#\\GameFramework-OOP-Course-master\\Entities\\BirdEnemy.cs",
+              "RelativeToolTip": "Entities\\BirdEnemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T20:37:02.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "D:\\semester 2\\c#\\GameFramework-OOP-Course-master\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Properties\\Resources.resx",
+              "ToolTip": "D:\\semester 2\\c#\\GameFramework-OOP-Course-master\\Properties\\Resources.resx",
+              "RelativeToolTip": "Properties\\Resources.resx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-12-28T00:35:46.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameOverForm.cs",
+              "DocumentMoniker": "D:\\semester 2\\c#\\GameFramework-OOP-Course-master\\GameOverForm.cs",
+              "RelativeDocumentMoniker": "GameOverForm.cs",
+              "ToolTip": "D:\\semester 2\\c#\\GameFramework-OOP-Course-master\\GameOverForm.cs",
+              "RelativeToolTip": "GameOverForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T12:06:44.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CollisionSystem.cs",
+              "DocumentMoniker": "D:\\semester 2\\c#\\GameFramework-OOP-Course-master\\Systems\\CollisionSystem.cs",
+              "RelativeDocumentMoniker": "Systems\\CollisionSystem.cs",
+              "ToolTip": "D:\\semester 2\\c#\\GameFramework-OOP-Course-master\\Systems\\CollisionSystem.cs",
+              "RelativeToolTip": "Systems\\CollisionSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T11:49:31.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Coin.cs",
+              "DocumentMoniker": "D:\\semester 2\\c#\\GameFramework-OOP-Course-master\\Extensions\\Coin.cs",
+              "RelativeDocumentMoniker": "Extensions\\Coin.cs",
+              "ToolTip": "D:\\semester 2\\c#\\GameFramework-OOP-Course-master\\Extensions\\Coin.cs",
+              "RelativeToolTip": "Extensions\\Coin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T11:48:19.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Game.cs",
+              "DocumentMoniker": "D:\\semester 2\\c#\\GameFramework-OOP-Course-master\\Core\\Game.cs",
+              "RelativeDocumentMoniker": "Core\\Game.cs",
+              "ToolTip": "D:\\semester 2\\c#\\GameFramework-OOP-Course-master\\Core\\Game.cs",
+              "RelativeToolTip": "Core\\Game.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T11:45:44.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameTime.cs",
+              "DocumentMoniker": "D:\\semester 2\\c#\\GameFramework-OOP-Course-master\\Core\\GameTime.cs",
+              "RelativeDocumentMoniker": "Core\\GameTime.cs",
+              "ToolTip": "D:\\semester 2\\c#\\GameFramework-OOP-Course-master\\Core\\GameTime.cs",
+              "RelativeToolTip": "Core\\GameTime.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T11:45:08.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GameObject.cs",
+              "DocumentMoniker": "D:\\semester 2\\c#\\GameFramework-OOP-Course-master\\Entities\\GameObject.cs",
+              "RelativeDocumentMoniker": "Entities\\GameObject.cs",
+              "ToolTip": "D:\\semester 2\\c#\\GameFramework-OOP-Course-master\\Entities\\GameObject.cs",
+              "RelativeToolTip": "Entities\\GameObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T11:43:36.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PowerUp.cs",
+              "DocumentMoniker": "D:\\semester 2\\c#\\GameFramework-OOP-Course-master\\Extensions\\PowerUp.cs",
+              "RelativeDocumentMoniker": "Extensions\\PowerUp.cs",
+              "ToolTip": "D:\\semester 2\\c#\\GameFramework-OOP-Course-master\\Extensions\\PowerUp.cs",
+              "RelativeToolTip": "Extensions\\PowerUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T10:53:20.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IUpdatable.cs",
+              "DocumentMoniker": "D:\\semester 2\\c#\\GameFramework-OOP-Course-master\\Interfaces\\IUpdatable.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IUpdatable.cs",
+              "ToolTip": "D:\\semester 2\\c#\\GameFramework-OOP-Course-master\\Interfaces\\IUpdatable.cs",
+              "RelativeToolTip": "Interfaces\\IUpdatable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T10:52:22.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IPhysicsObject.cs",
+              "DocumentMoniker": "D:\\semester 2\\c#\\GameFramework-OOP-Course-master\\Interfaces\\IPhysicsObject.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IPhysicsObject.cs",
+              "ToolTip": "D:\\semester 2\\c#\\GameFramework-OOP-Course-master\\Interfaces\\IPhysicsObject.cs",
+              "RelativeToolTip": "Interfaces\\IPhysicsObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T10:52:22.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IMovable.cs",
+              "DocumentMoniker": "D:\\semester 2\\c#\\GameFramework-OOP-Course-master\\Interfaces\\IMovable.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IMovable.cs",
+              "ToolTip": "D:\\semester 2\\c#\\GameFramework-OOP-Course-master\\Interfaces\\IMovable.cs",
+              "RelativeToolTip": "Interfaces\\IMovable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T10:52:21.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IDrawable.cs",
+              "DocumentMoniker": "D:\\semester 2\\c#\\GameFramework-OOP-Course-master\\Interfaces\\IDrawable.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IDrawable.cs",
+              "ToolTip": "D:\\semester 2\\c#\\GameFramework-OOP-Course-master\\Interfaces\\IDrawable.cs",
+              "RelativeToolTip": "Interfaces\\IDrawable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T10:52:21.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "D:\\semester 2\\c#\\GameFramework-OOP-Course-master\\Entities\\Enemy.cs",
+              "RelativeDocumentMoniker": "Entities\\Enemy.cs",
+              "ToolTip": "D:\\semester 2\\c#\\GameFramework-OOP-Course-master\\Entities\\Enemy.cs",
+              "RelativeToolTip": "Entities\\Enemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T10:47:54.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PhysicsSystem.cs",
+              "DocumentMoniker": "D:\\semester 2\\c#\\GameFramework-OOP-Course-master\\Systems\\PhysicsSystem.cs",
+              "RelativeDocumentMoniker": "Systems\\PhysicsSystem.cs",
+              "ToolTip": "D:\\semester 2\\c#\\GameFramework-OOP-Course-master\\Systems\\PhysicsSystem.cs",
+              "RelativeToolTip": "Systems\\PhysicsSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T10:47:23.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\semester 2\\c#\\GameFramework-OOP-Course-master\\Entities\\Player.cs",
+              "RelativeDocumentMoniker": "Entities\\Player.cs",
+              "ToolTip": "D:\\semester 2\\c#\\GameFramework-OOP-Course-master\\Entities\\Player.cs",
+              "RelativeToolTip": "Entities\\Player.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowEUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T10:46:48.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "D:\\semester 2\\c#\\GameFramework-OOP-Course-master\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Properties\\Resources.resx",
+              "ToolTip": "D:\\semester 2\\c#\\GameFramework-OOP-Course-master\\Properties\\Resources.resx",
+              "RelativeToolTip": "Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-12-22T12:20:40.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "GameForm.Designer.cs",
+              "DocumentMoniker": "D:\\semester 2\\c#\\GameFramework-OOP-Course-master\\GameForm.Designer.cs",
+              "RelativeDocumentMoniker": "GameForm.Designer.cs",
+              "ToolTip": "D:\\semester 2\\c#\\GameFramework-OOP-Course-master\\GameForm.Designer.cs",
+              "RelativeToolTip": "GameForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T12:15:26.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GameOverForm.cs [Design]",
+              "DocumentMoniker": "D:\\semester 2\\c#\\GameFramework-OOP-Course-master\\GameOverForm.cs",
+              "RelativeDocumentMoniker": "GameOverForm.cs",
+              "ToolTip": "D:\\semester 2\\c#\\GameFramework-OOP-Course-master\\GameOverForm.cs [Design]",
+              "RelativeToolTip": "GameOverForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T12:06:40.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GameForm.cs [Design]",
+              "DocumentMoniker": "D:\\semester 2\\c#\\GameFramework-OOP-Course-master\\GameForm.cs",
+              "RelativeDocumentMoniker": "GameForm.cs",
+              "ToolTip": "D:\\semester 2\\c#\\GameFramework-OOP-Course-master\\GameForm.cs [Design]",
+              "RelativeToolTip": "GameForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T12:16:19.241Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

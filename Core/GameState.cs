@@ -1,0 +1,26 @@
+﻿namespace GameFrameWork
+{
+    public enum GameState
+    {
+        Menu,
+        CharacterSelect,
+        Playing,
+        GameOver
+    }
+}
+
+//using System;
+//using System.Collections.Generic;
+//using System.Linq;
+//using System.Text;
+//using System.Threading.Tasks;
+
+//namespace GameFrameWork
+//{
+//    public enum GameState
+//    {
+//        Menu,
+//        Playing,
+//        GameOver
+//    }
+//}

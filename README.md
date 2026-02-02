@@ -1,13 +1,72 @@
-# FirstDesktopApp — Game Framework for OOP Course
+# GameFramework-OOP-Course 🎮
 
-This repository contains a compact 2D game framework designed for teaching OOP concepts in game development. It includes a small game loop, physics and collision systems, and simple entities (Player, Enemy, Bullet, PowerUp).
+A modular 2D game framework built in **C# (.NET / Windows Forms)** to demonstrate **Object-Oriented Programming (OOP)** principles through game development.
 
-## Tasks for Students
-See the tasks and assignment descriptions in `Docs/TASKS-README.md` for graded assignments, acceptance criteria, and suggested files to modify.
-
-## Documentation & PDF
-Lecture notes and documentation are in `Docs/Lecture-FirstDesktopApp.md`. Use `Docs/make-pdf.ps1` to convert it to PDF if you have Pandoc installed.
+This project was developed as part of an academic course and structured to reflect **clean architecture, separation of concerns, and extensibility**.
 
 ---
 
-Happy teaching! If you want, I can add starter unit tests and PR templates for the Level 1 tasks.
+## 🚀 Features
+
+- Game loop implementation
+- Layered architecture (Core, Systems, Entities, UI)
+- Collision & basic physics system
+- Entity-based design (Player, Enemy, Bullet, PowerUp)
+- Extendable framework for new mechanics
+- Clean, readable, and maintainable code
+
+---
+
+## 🧱 Architecture Overview
+
+The framework follows a **layered OOP design**:
+
+GameFramework
+│── Core → Game loop & base logic
+│── Systems → Collision, physics, power-ups
+│── Entities → Player, Enemy, Bullet, etc.
+│── UI → GameForm & rendering
+│── Utilities → Helpers & extensions
+
+
+This structure ensures:
+- Low coupling
+- High cohesion
+- Easy scalability
+
+---
+
+## 🛠️ Technologies Used
+
+- C#
+- .NET (Windows Forms)
+- Object-Oriented Programming (OOP)
+- Git & GitHub
+
+---
+
+## 📚 Learning Outcomes
+
+- Applied OOP concepts in a real-world project
+- Designed reusable and extendable systems
+- Worked with Git version control
+- Understood game architecture fundamentals
+
+---
+
+## 📌 Status
+
+✔️ Completed core framework  
+🔧 Open for future enhancements (AI, levels, sound system)
+
+---
+
+## 👤 Author
+
+**Ali Saleem**  
+Computer Science Student  
+Interested in Game Development, Software Architecture & OOP
+
+---
+
+⭐ If you like this project, feel free to star the repository!
